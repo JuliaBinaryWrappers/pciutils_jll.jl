@@ -9,7 +9,7 @@ function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libpci,
-        "lib/libpci.so.3",
+        "lib/libpci.so",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
