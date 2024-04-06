@@ -1,111 +1,111 @@
 [[pciutils]]
 arch = "aarch64"
-git-tree-sha1 = "b50352fc0c0a0625517687ea93545425f2eb7c20"
+git-tree-sha1 = "b098f0cdf9e7ce9734ae79ab441f0b4217ba604b"
 libc = "glibc"
 os = "linux"
 
     [[pciutils.download]]
-    sha256 = "fd710063428aabb5688062189f0443c577cd82b22f42ed892a9cfce124786119"
-    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.7.0+1/pciutils.v3.7.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "af47e2e7bc6e94102e5c8b92a49960b6cb58f2fe9c9f161d2f49d27f12d52011"
+    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.12.0+0/pciutils.v3.12.0.aarch64-linux-gnu.tar.gz"
 [[pciutils]]
 arch = "aarch64"
-git-tree-sha1 = "824df2239c8e18eb85135419fa03b143589d5a83"
+git-tree-sha1 = "8e4a0e0d92a80ff2491b9440a09551ec1e4fc87c"
 libc = "musl"
 os = "linux"
 
     [[pciutils.download]]
-    sha256 = "fe76008b31872b455c03818459739d985ea3f17d5e40f78d6668bde6e0b6f8f2"
-    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.7.0+1/pciutils.v3.7.0.aarch64-linux-musl.tar.gz"
+    sha256 = "a1205baaa923f0d3c325371aa6b03937fdf6ccee78defbc04c61bb1e0b3abf0b"
+    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.12.0+0/pciutils.v3.12.0.aarch64-linux-musl.tar.gz"
 [[pciutils]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "b1d459d86e24c71fed226a19d2ad4f3f8a7dd885"
+git-tree-sha1 = "68e8795536a70dc2e27a2ce9f9cc19bf2bfe255a"
 libc = "glibc"
 os = "linux"
 
     [[pciutils.download]]
-    sha256 = "63a421cc4a67b1b4fa98429f3fd6ffdb04b0db7828d3e27f4c229374771c273c"
-    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.7.0+1/pciutils.v3.7.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "a943c05a749085a7ea79bbd9c2fbcb5c80d55482f740acbd506589de9994369f"
+    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.12.0+0/pciutils.v3.12.0.armv6l-linux-gnueabihf.tar.gz"
 [[pciutils]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "ed693702f57f3dcf5267029e48d1ffba3cfd4227"
+git-tree-sha1 = "c809c5e0d53d8e3deee2582012392bf07680da3c"
 libc = "musl"
 os = "linux"
 
     [[pciutils.download]]
-    sha256 = "7eb0678a3dc078d9aad0c1cf5ad00ed861c7723e00cfe3921e3324a85255f059"
-    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.7.0+1/pciutils.v3.7.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "f3aa15da06f9070274be57f6a195661d9527e25ca01ce2fc3532c2452c81e477"
+    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.12.0+0/pciutils.v3.12.0.armv6l-linux-musleabihf.tar.gz"
 [[pciutils]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "20210b6b369d1289277521eb34f780cefda8dd85"
+git-tree-sha1 = "8d8050cc5ab8872c5c9e6ab232e73c7e2255a837"
 libc = "glibc"
 os = "linux"
 
     [[pciutils.download]]
-    sha256 = "6fb28e1a7b71989ac3374f8d7914cca7f1edc46af81b062041c2c776775a8893"
-    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.7.0+1/pciutils.v3.7.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "c66a026a190fe9bcb95944829543356a7f4de32f105b26f8ac83ced08b302073"
+    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.12.0+0/pciutils.v3.12.0.armv7l-linux-gnueabihf.tar.gz"
 [[pciutils]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "41f7a2227b7ac53aaa44fcffb83ef65fe798dca7"
+git-tree-sha1 = "f2041986dd958a51236db50e559264522a3a5565"
 libc = "musl"
 os = "linux"
 
     [[pciutils.download]]
-    sha256 = "0e7410325fc0fa67b75998441549f57b4d1f82f595f9b5177bf21e37a15de83b"
-    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.7.0+1/pciutils.v3.7.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "440d581b266295e202f9361ad270f80650d9a213052107aac9f0ebf1f9d765c7"
+    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.12.0+0/pciutils.v3.12.0.armv7l-linux-musleabihf.tar.gz"
 [[pciutils]]
 arch = "i686"
-git-tree-sha1 = "73524b86af9f9748a2417319dbe7eb837bbec79a"
+git-tree-sha1 = "c24ff7902eb055f9db3e8939c63f3c512465ba68"
 libc = "glibc"
 os = "linux"
 
     [[pciutils.download]]
-    sha256 = "a8ed87d9cb07c9d4a38e477326ad6dabd03deec48f2508b39fb084c94af1c46f"
-    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.7.0+1/pciutils.v3.7.0.i686-linux-gnu.tar.gz"
+    sha256 = "ccaa552a3ad578ac43b67060bf67af3bf3e3bfcceb760d1a196ceacc47e410ea"
+    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.12.0+0/pciutils.v3.12.0.i686-linux-gnu.tar.gz"
 [[pciutils]]
 arch = "i686"
-git-tree-sha1 = "ccdccc4bf072dedfe179be63c29a718b16dc95dc"
+git-tree-sha1 = "b852107335d9f90d20a0aba5aa130207d4b62867"
 libc = "musl"
 os = "linux"
 
     [[pciutils.download]]
-    sha256 = "67c8acecf3651da09b8a10e766ef98f3a90afc5605eba127a5e24043dd29babc"
-    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.7.0+1/pciutils.v3.7.0.i686-linux-musl.tar.gz"
+    sha256 = "7c8e413fc187b2627bf3a22ae25ba760e8e89ba1d0de2ba4561a239f820f06e4"
+    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.12.0+0/pciutils.v3.12.0.i686-linux-musl.tar.gz"
 [[pciutils]]
 arch = "powerpc64le"
-git-tree-sha1 = "bcddc3667ed3980c00a01017376cc66fac8d4d13"
+git-tree-sha1 = "9f08f2c7a8c3abbed7d176b50aad54a16f07b763"
 libc = "glibc"
 os = "linux"
 
     [[pciutils.download]]
-    sha256 = "4069feb36511590cae0d833b68bfcb8bdb5baacbd648586d16e8d0300d1275f1"
-    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.7.0+1/pciutils.v3.7.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "b717212c7eac61a71db0ea7117a0956a629c54c13b171bb98993d72615518ef9"
+    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.12.0+0/pciutils.v3.12.0.powerpc64le-linux-gnu.tar.gz"
 [[pciutils]]
 arch = "x86_64"
-git-tree-sha1 = "f76fdfc6b1e18f0ac887ce10c7d7147d79c60032"
+git-tree-sha1 = "b909e2fa1c22af516a233aafbaf2fe6f6d5be14e"
 libc = "glibc"
 os = "linux"
 
     [[pciutils.download]]
-    sha256 = "eca7c5c30ea43db6e6348faa60923276779ea4bf741b1baeb2d9dc7fa9ae840e"
-    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.7.0+1/pciutils.v3.7.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "e8dc83eb81ba1ec1cc848ba23d85978c903849ec5d52f1df5a4b421e8872b773"
+    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.12.0+0/pciutils.v3.12.0.x86_64-linux-gnu.tar.gz"
 [[pciutils]]
 arch = "x86_64"
-git-tree-sha1 = "804eee41c65bbee29feca0d883f890b5d3bafee0"
+git-tree-sha1 = "58226fbdd03ec4107364bf85a0f1de26516e672e"
 libc = "musl"
 os = "linux"
 
     [[pciutils.download]]
-    sha256 = "380c261b978f529dc8f3ba28995516d13916bbc3160ddf2b63e7041ad3cf2662"
-    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.7.0+1/pciutils.v3.7.0.x86_64-linux-musl.tar.gz"
+    sha256 = "8c6fc5675eaeae64ce9f233162cad0ad2dfaa76102c2565596d6deddf646da47"
+    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.12.0+0/pciutils.v3.12.0.x86_64-linux-musl.tar.gz"
 [[pciutils]]
 arch = "x86_64"
-git-tree-sha1 = "649267cf4be8212dcd19840f4c5b2c6b3c0a4471"
+git-tree-sha1 = "8ac381d131a9abc7e8661660e2f2d9ee9a37ad18"
 os = "freebsd"
 
     [[pciutils.download]]
-    sha256 = "b8ad9ace877c6def815ca48b0fcb63143178f2d26228a2d7e18b7a74e17fbc25"
-    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.7.0+1/pciutils.v3.7.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "089b6a417a1ae0eb57f1d1b2c7a4ce08ecb44e1329844b969ea2d5b4c69f4550"
+    url = "https://github.com/JuliaBinaryWrappers/pciutils_jll.jl/releases/download/pciutils-v3.12.0+0/pciutils.v3.12.0.x86_64-unknown-freebsd.tar.gz"
